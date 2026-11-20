@@ -17,11 +17,9 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Datasets and archives (the NAB dataset is NOT part of this repository;
-# see docs/REPRODUCIBILITY.md for how to obtain it)
+# Datasets and archives 
 NAB/
 *.zip
-data/raw/*.csv
 
 # Scratch outputs (the real-experiment results in artifacts/ ARE tracked)
 results/*
